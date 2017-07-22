@@ -49,15 +49,15 @@
     box-sizing: border-box
 }
 .YTPOverlay.raster {
-    background: url(http://touet.com/css/images/raster.png)
+    background: url(https://touet.github.io/css/images/raster.png)
 }
 .YTPOverlay.raster.retina {
-    background: url(http://touet.com/css/images/raster@2x.png)
+    background: url(https://touet.github.io/css/images/raster@2x.png)
 }
 .YTPOverlay.raster-dot {
-    background: url(http://touet.com/css/images/raster_dot.png)
+    background: url(https://touet.github.io/css/images/raster_dot.png)
 }
 .YTPOverlay.raster-dot.retina {
-    background: url(http://touet.com/css/images/raster_dot@2x.png)
+    background: url(https://touet.github.io/css/images/raster_dot@2x.png)
 }
 
